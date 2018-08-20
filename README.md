@@ -20,7 +20,7 @@ Windows only, sorry folks !
 Usage:
 -------- 
 * Oneplus 5 QD-Loader decryption:
-'python decrypt.py "MsmDownloadTool V4.0.exe" 0 0x92880'
+'python ops_decrypt.py "MsmDownloadTool V4.0.exe" 0 0x928F0'
 
 * Enable readback mode:
 'python backdoor.py "MsmDownloadTool V4.0.exe"'
